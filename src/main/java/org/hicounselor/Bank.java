@@ -77,7 +77,6 @@ public class Bank {
             srcAccount.setBalance(srcAccount.getBalance() - amount);
             desAccount.setBalance(desAccount.getBalance() + amount);
             System.out.println("Amount is successfully transferred");
-            System.out.println("Amount is successfully transferred");
         }
     }
 }
